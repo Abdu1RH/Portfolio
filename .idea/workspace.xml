@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be8c7c2-d941-4b5a-a9f4-dfca462a572a" name="Changes" comment="Committing message">
+    <list default="true" id="4be8c7c2-d941-4b5a-a9f4-dfca462a572a" name="Changes" comment="Blue background color test v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <workItem from="1662296506221" duration="3861000" />
       <workItem from="1662364748120" duration="148000" />
       <workItem from="1662620154746" duration="1519000" />
-      <workItem from="1662621801243" duration="3184000" />
+      <workItem from="1662621801243" duration="3850000" />
     </task>
     <task id="LOCAL-00001" summary="Committing message">
       <created>1662622481947</created>
@@ -76,7 +75,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662622481947</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Blue background color test">
+      <created>1662625140089</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662625140089</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Blue background color test">
+      <created>1662625150745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662625150745</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Blue background color test v2">
+      <created>1662625674038</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662625674038</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Committing message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing message" />
+    <MESSAGE value="Blue background color test" />
+    <MESSAGE value="Blue background color test v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blue background color test v2" />
   </component>
 </project>
