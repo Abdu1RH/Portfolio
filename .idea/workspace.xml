@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be8c7c2-d941-4b5a-a9f4-dfca462a572a" name="Changes" comment="Blue background color test v2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="4be8c7c2-d941-4b5a-a9f4-dfca462a572a" name="Changes" comment="New version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,7 @@
       <workItem from="1662621801243" duration="5391000" />
       <workItem from="1662814261185" duration="11804000" />
       <workItem from="1662835569507" duration="132000" />
-      <workItem from="1662892326606" duration="1013000" />
+      <workItem from="1662892326606" duration="1312000" />
     </task>
     <task id="LOCAL-00001" summary="Committing message">
       <created>1662622481947</created>
@@ -107,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662625735506</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New version">
+      <created>1662893448311</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662893448311</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +131,7 @@
     <MESSAGE value="Committing message" />
     <MESSAGE value="Blue background color test" />
     <MESSAGE value="Blue background color test v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blue background color test v2" />
+    <MESSAGE value="New version" />
+    <option name="LAST_COMMIT_MESSAGE" value="New version" />
   </component>
 </project>
