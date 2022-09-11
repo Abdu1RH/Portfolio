@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4be8c7c2-d941-4b5a-a9f4-dfca462a572a" name="Changes" comment="Blue background color test v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +67,10 @@
       <workItem from="1662296506221" duration="3861000" />
       <workItem from="1662364748120" duration="148000" />
       <workItem from="1662620154746" duration="1519000" />
-      <workItem from="1662621801243" duration="3850000" />
+      <workItem from="1662621801243" duration="5391000" />
+      <workItem from="1662814261185" duration="11804000" />
+      <workItem from="1662835569507" duration="132000" />
+      <workItem from="1662892326606" duration="1013000" />
     </task>
     <task id="LOCAL-00001" summary="Committing message">
       <created>1662622481947</created>
@@ -96,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662625674038</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Blue background color test v2">
+      <created>1662625735506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662625735506</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -46,7 +46,8 @@ h2 {
 }
 
 h4 {
-    text-align: right;
+    text-align: center;
+    font-weight: normal;
 
 }
 
@@ -58,6 +59,47 @@ h4 {
     font-size: 30px;
 }
 
-* {
-    background: darkblue;
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ea1538;
+    transition: .3s;
+}
+
+
+#Welcome {
+    color: #ea1538;
+    text-align: left;
 }
